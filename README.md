@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @camposouza
-- 👀 ...
+
 - 🌱 I’m currently developing Python codes to a Nuclear Magnetic Resonance research
-- 💞️ ...
 - 📫 Send me an email: guilhermesouza0911@ufmg.br
 
 <!---
